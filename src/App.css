@@ -1,0 +1,28 @@
+.book-container {
+  display: flex;
+  justify-content: space-between;
+  font-size: larger;
+  text-align: center;
+  width: 98%;
+  margin: 20px auto;
+  padding: 10px;
+  background: rgb(191, 209, 229);
+}
+.book-cover {
+  height: 300px;
+  width: 200px;
+}
+html {
+  background: rgb(0, 0, 0);
+}
+.box-info {
+  align-content: center;
+  border: 5px solid green;
+}
+.info-box {
+  border: 10px solid grey;
+  padding: 20px;
+}
+* {
+  box-sizing: border-box;
+}
